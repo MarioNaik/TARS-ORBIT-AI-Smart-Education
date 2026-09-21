@@ -1,0 +1,1 @@
+TARS ORBIT Frontend V9 — polished learner UI with fixed T.A.R.S. composer/history, professional typography/icons, course imagery, module learning pages, course-specific daily assessments, and persistent shell/logo. Connects to the V8-compatible backend API at http://localhost:4000/api.

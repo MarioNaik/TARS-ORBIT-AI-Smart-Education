@@ -1,0 +1,13 @@
+{
+  "name": "TARS ORBIT",
+  "short_name": "TARS ORBIT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f5fb",
+  "theme_color": "#5b2bbf",
+  "description": "Personal AI-powered learning workspace",
+  "icons": [
+    {"src":"icon-192.jpg","sizes":"192x192","type":"image/jpeg","purpose":"any maskable"},
+    {"src":"icon-512.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any maskable"}
+  ]
+}
